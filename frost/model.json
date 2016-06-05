@@ -1,0 +1,19 @@
+{
+	"activitys": 
+	[
+		{
+			"id": "0",
+			"name": "Erstes Investment",
+			"insertion_date": "01.01.1971",
+			"total_crowd_investment": "358",
+			"investment_goal": "2000"
+		},
+		{
+			"id": "1",
+			"name": "Zweites Investment",
+			"insertion_date": "01.01.1971",
+			"total_crowd_investment": "500",
+			"investment_goal": "20000"
+		}
+	]
+}
