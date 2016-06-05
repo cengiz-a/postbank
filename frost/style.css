@@ -64,7 +64,7 @@ Version: 1.0
 
 .active {
         padding: 10px 10px 10px 10px;
-        background-color: #03e2f6;
+        background-color: #ece1b6;
         color: white;
         text-align: center;
 
@@ -80,7 +80,7 @@ Version: 1.0
 
 .finished {
         padding: 10px 10px 10px 10px;
-        background-color: #ff0000;
+        background-color: #e2b7a1;
         color: white;
         text-align: center;
 
@@ -96,7 +96,7 @@ Version: 1.0
 
 .offers {
         padding: 10px 10px 10px 10px;
-        background-color: #ae00ff;
+        background-color: #a4dedb;
         color: white;
         text-align: center;
 
@@ -112,7 +112,7 @@ Version: 1.0
 
 .investigations {
         padding: 10px 10px 10px 10px;
-        background-color: #0903f6;
+        background-color: #c0a4de;
         color: white;
         text-align: center;
 
@@ -1190,7 +1190,7 @@ footer .post-list li em {
     box-shadow: 3px 3px 0 rgba(0,0,0,0.11);
 }
 .navbar-brand:hover {
-    background: #468eb5
+    background: #468eb5;
 }
 .navbar-brand img {
     -webkit-transition: all 0.3s;
